@@ -1,0 +1,6 @@
+{
+  "name": "MORA Atelier",
+  "description": "Luxury artisanal grooming lounge and master barber booking experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
